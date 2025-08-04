@@ -19,7 +19,8 @@ I believe in traditional engineering principles, and I design systems that respe
 ## 🛠️ Technologies I Work With
 
 ### Languages & Runtimes  
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)   ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php)  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
 
 ### Backend Frameworks  
 ![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat)  ![Axum](https://img.shields.io/badge/-Axum-purple?style=flat)  ![Fiber](https://img.shields.io/badge/-Fiber-00acc1?style=flat)  ![Laravel](https://img.shields.io/badge/-Laravel-f72c1f?style=flat&logo=laravel)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  ![Nest.js](https://img.shields.io/badge/-Nest.js-e0234e?style=flat&logo=nestjs)
