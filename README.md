@@ -23,7 +23,7 @@ I believe in traditional engineering principles, and I design systems that respe
 
 
 ### Backend Frameworks  
-![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat)  ![Axum](https://img.shields.io/badge/-Axum-purple?style=flat)  ![Fiber](https://img.shields.io/badge/-Fiber-00acc1?style=flat)  ![Laravel](https://img.shields.io/badge/-Laravel-f72c1f?style=flat&logo=laravel)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  ![Nest.js](https://img.shields.io/badge/-Nest.js-e0234e?style=flat&logo=nestjs)
+![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat)  ![Axum](https://img.shields.io/badge/-Axum-purple?style=flat)  ![Fiber](https://img.shields.io/badge/-Fiber-00acc1?style=flat)  ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  ![Nest.js](https://img.shields.io/badge/-Nest.js-e0234e?style=flat&logo=nestjs)
 
 ### Frontend Frameworks
 
