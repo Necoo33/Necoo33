@@ -30,7 +30,7 @@ I believe in traditional engineering principles, and I design systems that respe
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=fff)
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### DevOps & Tools  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)  ![Fish](https://img.shields.io/badge/-Fish-cc2b4c?style=flat)  ![Cursor](https://img.shields.io/badge/-Cursor-3a3a3a?style=flat)  ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)  ![Litespeed](https://img.shields.io/badge/-LiteSpeed-7aa2de?style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
