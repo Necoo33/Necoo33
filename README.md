@@ -19,10 +19,7 @@ I believe in traditional engineering principles, and I design systems that respe
 ## 🛠️ Technologies I Work With
 
 ### Languages & Runtimes  
-![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)  
-![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php)  
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
+![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)   ![PHP](https://img.shields.io/badge/-PHP-777bb4?style=flat&logo=php)  ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go)  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
 
 ### Frameworks  
 ![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat)  
