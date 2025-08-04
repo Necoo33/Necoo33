@@ -6,11 +6,11 @@ I'm a Founder, Developer And System Architect.
 
 ## 🧠 About Me
 
-I build scalable backend systems with a strong focus on performance, stability, and simplicity.  
-I believe in traditional engineering principles, and I design systems that respect the OS, the user, and the machine.
+I build scalable backend systems with a strong focus on performance, stability, and simple architecture.
+I believe in traditional engineering principles, and I design systems that respect the OS, the user, and the machine. 
 
-- 🏢 Founder of **Nermefraz Bilişim Teknolojileri**
-- 🔧 Obsessed with clean architecture, low-level optimization, and avoiding unnecessary abstraction
+- 🏢 Founder of **Nermefraz Information Technologies**
+- 🔧 Obsessed with low-level optimization, and avoiding unnecessary abstraction
 - 🐧 Terminal-native. Linux is not just an OS — it's a way of life.
 - 🧠 "No side effects unless I say so."
 
@@ -25,17 +25,10 @@ I believe in traditional engineering principles, and I design systems that respe
 ![Actix Web](https://img.shields.io/badge/-Actix--Web-000000?style=flat)  ![Axum](https://img.shields.io/badge/-Axum-purple?style=flat)  ![Fiber](https://img.shields.io/badge/-Fiber-00acc1?style=flat)  ![Laravel](https://img.shields.io/badge/-Laravel-f72c1f?style=flat&logo=laravel)  ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  ![Nest.js](https://img.shields.io/badge/-Nest.js-e0234e?style=flat&logo=nestjs)
 
 ### Databases  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 
 ### DevOps & Tools  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)  
-![Fish](https://img.shields.io/badge/-Fish-cc2b4c?style=flat)  
-![Cursor](https://img.shields.io/badge/-Cursor-3a3a3a?style=flat)  
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)  
-![Litespeed](https://img.shields.io/badge/-LiteSpeed-7aa2de?style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)  ![Fish](https://img.shields.io/badge/-Fish-cc2b4c?style=flat)  ![Cursor](https://img.shields.io/badge/-Cursor-3a3a3a?style=flat)  ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx)  ![Litespeed](https://img.shields.io/badge/-LiteSpeed-7aa2de?style=flat)
 
 ---
 
@@ -48,9 +41,9 @@ I believe in traditional engineering principles, and I design systems that respe
 ## 📫 Reach Me
 
 - GitHub: [@Necoo33](https://github.com/Necoo33)
-- Email: `necdet@ornek.com`
+- Email: `support@nermefraz.com`
 
 ---
 
-> "Simple is not easy. But simple scales."  
+> "Embrace simplicity, avoid easiness."  
 > – Necdet Arda Etiman
