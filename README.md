@@ -46,7 +46,7 @@ I believe in traditional engineering principles, and I design systems that respe
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Necoo33&layout=compact&langs_count=10&theme=tokyonight) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Necoo33&show_icons=true&theme=tokyonight)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com?user=Necoo33&theme=tokyonight) ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Necoo33&theme=tokyonight)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Necoo33&theme=tokyonight)
 
 
 ---
