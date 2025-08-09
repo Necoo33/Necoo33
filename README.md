@@ -39,7 +39,7 @@ I believe in traditional engineering principles, and I design systems that respe
 
 ### DevOps & Tools  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash)  ![Fish](https://img.shields.io/badge/-Fish-cc2b4c?style=flat)  ![Cursor](https://img.shields.io/badge/-Cursor-3a3a3a?style=flat)  ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx) ![Apache](https://img.shields.io/badge/-Apache-D22128?style=flat&logo=apache&logoColor=white)
-  ![Litespeed](https://img.shields.io/badge/-LiteSpeed-7aa2de?style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Litespeed](https://img.shields.io/badge/-LiteSpeed-7aa2de?style=flat) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![aaPanel](https://img.shields.io/badge/-aaPanel-00AAFF?style=flat&logo=linux&logoColor=white)
 
 
 
