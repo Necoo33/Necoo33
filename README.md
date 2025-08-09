@@ -27,7 +27,7 @@ I believe in traditional engineering principles, and I design systems that respe
 
 ### Frontend Frameworks
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white) ![Svelte](https://img.shields.io/badge/-Svelte-FF3E00?style=flat&logo=svelte&logoColor=fff) ![Astro](https://img.shields.io/badge/-Astro-BC52EE?style=flat&logo=astro&logoColor=white)
 
 
 ## Cms
