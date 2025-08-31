@@ -12,6 +12,7 @@ I believe in traditional engineering principles, and I design systems that respe
 - 🏢 Founder of **Nermefraz Information Technologies**
 - 🔧 Obsessed with low-level optimization, and avoiding unnecessary abstraction
 - 🐧 Terminal-native. Linux is not just an OS — it's a way of life.
+- 🐘 Php is a framework. Js and py is child's play.
 - 🧠 "No side effects unless I say so."
 
 ---
