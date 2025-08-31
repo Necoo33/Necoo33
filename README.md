@@ -13,6 +13,7 @@ I believe in traditional engineering principles, and I design systems that respe
 - 🔧 Obsessed with low-level optimization, and avoiding unnecessary abstraction
 - 🐧 Terminal-native. Linux is not just an OS — it's a way of life.
 - 🐘 Php is a framework. Js and py is child's play.
+- 🗄️ Lock all complex logic into sql. Abstract the complexity, achieve simplicity.
 - 🧠 "No side effects unless I say so."
 
 ---
